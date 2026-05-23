@@ -94,25 +94,39 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
-        bgImage: '/work-1.png',
-    },
-    {
-        title: 'University chatbot',
+        title: 'Lesson Plan App',
         description: 'Web App',
-        bgImage: '/work-2.png',
+        bgImage: '/dara.PNG',
+        link: 'https://app.dealpharegalacademy.com/login',
     },
-    {
-        title: 'Meeting transcription app',
-        description: 'Web App',
-        bgImage: '/work-3.png',
-    },
+
     {
         title: 'School website',
         description: 'Web Design',
-        bgImage: '/work-4.png',
+        bgImage: '/lessonnotes.PNG',
+        link: 'https://www.dealpharegalacademy.com/',
     },
+
+    {
+        title: 'Food Blog: CookBase',
+        description: 'Web Design',
+        bgImage: '/cookbase.PNG',
+        link: 'https://cook-base.vercel.app/',
+    },
+
+    {
+        title: 'University chatbot',
+        description: 'Web App (not deployed)',
+        bgImage: '/work-2.png',
+        link: 'https://github.com/evalsam-murna-gaul/chatbotapp',
+    },
+    {
+        title: 'Meeting transcription app',
+        description: 'Web App (not deployed)',
+        bgImage: '/work-3.png',
+        link: 'https://github.com/zst-tech/minits-backend',
+    },
+
 ]
 
 export const serviceData = [
